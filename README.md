@@ -1,4 +1,4 @@
-# What's in the middle school bullying is this?!
+# What in the middle school bullying is this?!
 This is just a project I'm doing for my own use due to having too little of a choice when using fonts in CSS.
 
 # How do I use this??
@@ -20,19 +20,19 @@ Put this at the top of your CSS file:
 # What fonts do I have now??
 Listing will start here. To get the original github repository, go in the font-file.css file and check for your font in a comment, under it the original repository is linked.
 
-## Kiwi Maru
+##### Kiwi Maru
 ### types:
 * kiwi-light
 * kiwi-medium 
 * kiwi-regular
 
-## Dosis
+##### Dosis
 ### types: 
 * dosis-medium
 * dosis-bold 
 * dosis-light
 
-## Spartan
+##### Spartan
 ### types: 
 * spartan-regular 
 * spartan-light

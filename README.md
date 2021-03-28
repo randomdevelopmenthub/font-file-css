@@ -6,11 +6,36 @@ There are 2 ways.
 
 # 1. HTML
 Put this in your \<head\> tag: 
-```<link rel="stylesheet" src="https://cdn.githubraw.com/randomdevelopmenthub/font-file-css/master/font-file.css" />```
+```html
+<link rel="stylesheet" src="https://cdn.githubraw.com/randomdevelopmenthub/font-file-css/master/font-file.css" />
+```
+
 # 2. CSS
 Put this at the top of your CSS file: 
-```@import url("https://cdn.githubraw.com/randomdevelopmenthub/font-file-css/master/font-file.css")```
+```css
+@import url("https://cdn.githubraw.com/randomdevelopmenthub/font-file-css/master/font-file.css")
+```
 
 # I have installed it.
 # What fonts do I have now??
-I will list them off in the future, as there will be many added. They are all linked to their original GitHub owner in the font-file.css file.
+Listing will start here. To get the original github repository, go in the font-file.css file and check for your font in a comment, under it the original repository is linked.
+
+## Kiwi Maru
+### types:
+* kiwi-light
+* kiwi-medium 
+* kiwi-regular
+
+## Dosis
+### types: 
+* dosis-medium
+* dosis-bold 
+* dosis-light
+
+## Spartan
+### types: 
+* spartan-regular 
+* spartan-light
+* spartan-medium
+* spartan-thin
+* spartan-bold

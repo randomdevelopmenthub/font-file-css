@@ -20,19 +20,19 @@ Put this at the top of your CSS file:
 Listing will start here. To get the original github repository, go in the font-file.css file and check for your font in a comment, under it the original repository is linked.
 
 ## Kiwi Maru
-##### types:
+#### types:
 * kiwi-light
 * kiwi-medium 
 * kiwi-regular
 
 ## Dosis
-##### types: 
+#### types: 
 * dosis-medium
 * dosis-bold 
 * dosis-light
 
 ## Spartan
-##### types: 
+#### types: 
 * spartan-regular 
 * spartan-light
 * spartan-medium

@@ -7,13 +7,13 @@ There are 2 ways:
 ### 1. HTML
 Put this in your \<head\> tag: 
 ```html
-<link rel="stylesheet" src="https://cdn.githubraw.com/randomdevelopmenthub/font-file-css/master/font-file.css" />
+<link rel="stylesheet" src="https://cdn.jsdelivr.net/gh/randomdevelopmenthub/font-file-css/font-file.css" />
 ```
 
 ### 2. CSS
 Put this at the top of your CSS file: 
 ```css
-@import url("https://cdn.githubraw.com/randomdevelopmenthub/font-file-css/master/font-file.css")
+@import url("https://cdn.jsdelivr.net/gh/randomdevelopmenthub/font-file-css/font-file.css")
 ```
 
 # What fonts do I have now??

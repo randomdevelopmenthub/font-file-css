@@ -5,13 +5,21 @@ This is just a project I'm doing for my own use due to having too little of a ch
 There are 2 ways:
 
 ### 1. HTML
-Put this in your \<head\> tag: 
+Put this in your \<head\> tag (for production): 
+```html
+<link rel="stylesheet" src="https://cdn.jsdelivr.net/gh/randomdevelopmenthub/font-file-css/font-file.min.css" />
+```
+or the unminified version:
 ```html
 <link rel="stylesheet" src="https://cdn.jsdelivr.net/gh/randomdevelopmenthub/font-file-css/font-file.css" />
 ```
 
 ### 2. CSS
-Put this at the top of your CSS file: 
+Put this at the top of your CSS file (for production): 
+```css
+@import url("https://cdn.jsdelivr.net/gh/randomdevelopmenthub/font-file-css/font-file.min.css")
+```
+or the unminified version:
 ```css
 @import url("https://cdn.jsdelivr.net/gh/randomdevelopmenthub/font-file-css/font-file.css")
 ```
@@ -30,6 +38,7 @@ Listing will start here. To get the original github repository, go in the font-f
 * dosis-medium
 * dosis-bold 
 * dosis-light
+* dosis-book
 
 ## Spartan
 #### types: 

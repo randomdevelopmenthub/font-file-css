@@ -3,17 +3,17 @@
 
 @font-face {
     font-family: "kiwi-light";
-    src: url("https:/raw.githubusercontent.com/aaronbell/Kiwi-Maru/master/fonts/ttf/KiwiMaru-Light.ttf");
+    src: url("./fonts/KiwiMaru-Light.ttf");
 }
 
 @font-face {
     font-family: "kiwi-medium";
-    src: url("https:/raw.githubusercontent.com/aaronbell/Kiwi-Maru/master/fonts/ttf/KiwiMaru-Medium.ttf");
+    src: url("./fonts/KiwiMaru-Medium.ttf");
 }
 
 @font-face {
     font-family: "kiwi-regular";
-    src: url("https:/raw.githubusercontent.com/aaronbell/Kiwi-Maru/master/fonts/ttf/KiwiMaru-Regular.ttf");
+    src: url("./fonts/KiwiMaru-Regular.ttf");
 }
 
 /* dosis */
@@ -21,22 +21,22 @@
 
 @font-face {
     font-family: "dosis-medium";
-    src: url("https://raw.githubusercontent.com/impallari/Dosis/master/fonts/v1007%20Fontlab%20-%20Original/TTF/Dosis-Medium.ttf");
+    src: url("./fonts/Dosis-Medium.ttf");
 }
 
 @font-face {
     font-family: "dosis-bold";
-    src: url("https://raw.githubusercontent.com/impallari/Dosis/master/fonts/v1007%20Fontlab%20-%20Original/TTF/Dosis-Bold.ttf");
+    src: url("./fonts/Dosis-Bold.ttf");
 }
 
 @font-face {
     font-family: "dosis-light";
-    src: url("https://raw.githubusercontent.com/impallari/Dosis/master/fonts/v1007%20Fontlab%20-%20Original/TTF/Dosis-Light.ttf");
+    src: url("./fonts/Dosis-Light.ttf");
 }
 
 @font-face {
-    font-family: "dosis-light";
-    src: url("https://raw.githubusercontent.com/impallari/Dosis/master/fonts/v1007%20Fontlab%20-%20Original/TTF/Dosis-Book.ttf");
+    font-family: "dosis-book";
+    src: url("./fonts/Dosis-Book.ttf");
 }
 
 /* spartan */
@@ -45,25 +45,25 @@
 
 @font-face {
     font-family: "spartan-regular";
-    src: url("https://raw.githubusercontent.com/MattBaileyDesign/Spartan-MB/tree/V-1.006/Fonts/TTF/SpartanMB-Regular.ttf");
+    src: url("./fonts/SpartanMB-Regular.ttf");
 }
 
 @font-face {
     font-family: "spartan-light";
-    src: url("https://raw.githubusercontent.com/MattBaileyDesign/Spartan-MB/tree/V-1.006/Fonts/TTF/SpartanMB-Light.ttf");
+    src: url("./fonts/SpartanMB-Light.ttf");
 }
 
 @font-face {
     font-family: "spartan-medium";
-    src: url("https://raw.githubusercontent.com/MattBaileyDesign/Spartan-MB/tree/V-1.006/Fonts/TTF/SpartanMB-Medium.ttf");
+    src: url("./fonts/SpartanMB-Medium.ttf");
 }
 
 @font-face {
     font-family: "spartan-thin";
-    src: url("https://raw.githubusercontent.com/MattBaileyDesign/Spartan-MB/tree/V-1.006/Fonts/TTF/SpartanMB-Thin.ttf");
+    src: url("./fonts/SpartanMB-Thin.ttf");
 }
 
 @font-face {
     font-family: "spartan-bold";
-    src: url("https://raw.githubusercontent.com/MattBaileyDesign/Spartan-MB/tree/V-1.006/Fonts/TTF/SpartanMB-Bold.ttf");
+    src: url("./fonts/SpartanMB-Bold.ttf");
 }

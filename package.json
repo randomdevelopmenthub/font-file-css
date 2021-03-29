@@ -1,0 +1,26 @@
+{
+  "name": "font-file-css",
+  "version": "1.0.0",
+  "description": "Many fonts bundled in one file",
+  "scripts": {
+    "minify": "minify font-file.css > font-file.min.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randomdevelopmenthub/font-file-css.git"
+  },
+  "keywords": [
+    "css",
+    "fonts",
+    "font"
+  ],
+  "author": "radom-development-hub",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/randomdevelopmenthub/font-file-css/issues"
+  },
+  "homepage": "https://github.com/randomdevelopmenthub/font-file-css#readme",
+  "devDependencies": {
+    "minify": "^7.0.1"
+  }
+}

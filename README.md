@@ -17,11 +17,11 @@ or the unminified version:
 ### 2. CSS
 Put this at the top of your CSS file (for production): 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/randomdevelopmenthub/font-file-css/font-file.min.css")
+@import url("https://cdn.jsdelivr.net/gh/randomdevelopmenthub/font-file-css/font-file.min.css");
 ```
 or the unminified version:
 ```css
-@import url("https://cdn.jsdelivr.net/gh/randomdevelopmenthub/font-file-css/font-file.css")
+@import url("https://cdn.jsdelivr.net/gh/randomdevelopmenthub/font-file-css/font-file.css");
 ```
 
 # What fonts do I have now??
